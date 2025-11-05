@@ -1,4 +1,4 @@
-# Crozair Toolkit
+# Crozair Toolkit Web Application
 
 A modern, high-performance engineering tools application built with React, Vite, and Tailwind CSS. Provides various utilities and calculators for engineering professionals.
 
