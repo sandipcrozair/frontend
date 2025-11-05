@@ -1,16 +1,56 @@
-# React + Vite
+# Crozair Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance engineering tools application built with React, Vite, and Tailwind CSS. Provides various utilities and calculators for engineering professionals.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🧮 Calculators
+- **Boiling Point Calculator** - Calculate boiling points at different pressures
+- **Reynolds Number** - Calculate Reynolds number for fluid flow
+- **More engineering calculators...**
 
-## React Compiler
+### 🛠️ Tools
+- **Vacuum Converter** - Convert between vacuum units
+- **Pressure Converter** - Pressure unit conversions
+- **Elevation Calculator** - Calculate elevation differences
+- **More engineering tools...**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🚀 Technical Features
+- ⚡ **Blazing Fast** - Built with Vite for optimal performance
+- 📱 **Fully Responsive** - Works seamlessly on all devices
+- 🎨 **Modern UI** - Clean design with Tailwind CSS + Material-UI
+- 🔧 **Developer Friendly** - Hot reloading and optimized build
+- ♿ **Accessible** - WCAG compliant components
+- 📐 **Multiple Icon Libraries** - Lucide React + Material Icons + React Icons
 
-## Expanding the ESLint configuration
+## 🛠️ Technology Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend Framework
+- **React 19** - Latest React with new features
+- **Vite 7** - Next-generation build tool
+- **React Router DOM 7** - Client-side routing
+
+### Styling & UI
+- **Tailwind CSS 4** - Utility-first CSS framework
+- **Material-UI v7** - React component library
+- **Lucide React** - Beautiful & consistent icons
+- **React Icons** - Comprehensive icon library
+
+### Development & Build
+- **ESLint 9** - Code linting and quality
+- **TypeScript** - Type definitions for better development
+- **Axios** - HTTP client for API calls
+- **Yup** - Schema validation
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js 18+ 
+- npm, yarn, or pnpm
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/crozair/Engineering-Tools.git
+   cd Engineering-Tools
