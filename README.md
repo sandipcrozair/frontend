@@ -5,9 +5,14 @@ A modern, high-performance engineering tools application built with React, Vite,
 ## 🌟 Features
 
 ### 🧮 Calculators
-- **Boiling Point Calculator** - Calculate boiling points at different pressures
-- **Reynolds Number** - Calculate Reynolds number for fluid flow
-- **More engineering calculators...**
+
+| Calculator | Description | Category |
+|-------------|--------------|-----------|
+| **Boiling Point Calculator** | Determine boiling points at various pressures using the Clausius-Clapeyron equation and a built-in substance database. | Thermodynamics |
+| **Vacuum Evacuation Time** | Calculate chamber evacuation times based on volume, pump capacity, and pressure range. | Vacuum Engineering |
+| **Flow Rate Calculator** *(Coming Soon)* | Compute volumetric and mass flow rates through pipes and channels with precision. | Fluid Dynamics |
+
+---
 
 ### 🛠️ Tools
 - **Vacuum Converter** - Convert between vacuum units
