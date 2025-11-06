@@ -53,4 +53,5 @@ A modern, high-performance engineering tools application built with React, Vite,
 1. **Clone the repository**
    ```bash
    git clone https://github.com/crozair/Engineering-Tools.git
+   git clone https://github.com/sandipcrozair/frontend.git
    cd Engineering-Tools
